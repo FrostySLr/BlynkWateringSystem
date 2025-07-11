@@ -5,4 +5,4 @@
 ## Components
 
 ## Pin Layouts
-image/watering system pin layouts.png
+<img src="image/watering system pin layouts.png" alt="pin layout">
