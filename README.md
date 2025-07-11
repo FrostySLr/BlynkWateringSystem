@@ -1,6 +1,6 @@
 # Blynk Watering System
 ## Description
-A basic Watering System that uses ESP32-WiFi with Blynk integration and 16*2 as a HUD
+A basic Watering System that uses ESP32-WiFi with Blynk integration and 16*2 LCD Display as a HUD
 ## Components
 **Microcontroller**  
 - ESP32-Wi-Fi<br/>
