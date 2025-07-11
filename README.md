@@ -5,4 +5,4 @@
 ## Components
 
 ## Pin Layouts
-pinlayouts.png
+/pinlayouts.png
