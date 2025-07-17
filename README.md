@@ -21,4 +21,4 @@ A basic Watering System that uses ESP32-WiFi with Blynk integration and 16*2 LCD
 
 ## Documentation
 <img src="image/photo1a.jpg"><br/>
-Video Coming Soon
+**Video Coming Soon**
